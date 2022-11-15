@@ -1,4 +1,5 @@
-﻿ # <a href="https://www.drivendata.org/competitions/57/nepal-earthquake/" target="_blank">!Competition Link!</a> Machine Learning Project for AI Clss
+﻿ # <a href="https://www.drivendata.org/competitions/57/nepal-earthquake/" target="_blank">!Competition Link!</a></br>
+ ## <a align="center">Machine Learning Project for AI Class </a> </br>
 
 ## Data Distribution </br>
 ![image](https://user-images.githubusercontent.com/75019129/201914676-ca7f4fbc-c637-4f6a-8117-376aae7a8016.png)</br>
