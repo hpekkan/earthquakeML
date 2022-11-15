@@ -1,6 +1,7 @@
 ﻿ # <a href="https://www.drivendata.org/competitions/57/nepal-earthquake/" target="_blank">!Competition Link!</a></br>
  ### <p align="center">Machine Learning Project for AI Class </p> </br>
 
+## In earthquake.pdf you can see my approach to this problem and the algorithms I used. You can review the presentation (huseyin_pekkan_201401016_yap470_project.docx) that I prepared for this problem in the AI Course. The presentation is in Turkish.
 
 ## <p align="center">Data Distribution</p> 
 <p align="center" ><img src="https://user-images.githubusercontent.com/75019129/201914676-ca7f4fbc-c637-4f6a-8117-376aae7a8016.png" alt="">
