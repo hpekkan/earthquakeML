@@ -1,8 +1,9 @@
 ﻿# https://www.drivendata.org/competitions/57/nepal-earthquake/ Machine Learning Project for AI Class
  
-# Data Distribution
+## Data Distribution
 </br>
 ![image](https://user-images.githubusercontent.com/75019129/201914676-ca7f4fbc-c637-4f6a-8117-376aae7a8016.png)
+</br>
 ## Numerical Features
 </br>
 ![image](https://user-images.githubusercontent.com/75019129/201914699-0a274507-bb33-4765-a918-31c95854d409.png)
