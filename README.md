@@ -1,4 +1,4 @@
-﻿# https://www.drivendata.org/competitions/57/nepal-earthquake/ Machine Learning Project for AI Class
+﻿# <a href='https://www.drivendata.org/competitions/57/nepal-earthquake/' target='_blank'>https://www.drivendata.org/competitions/57/nepal-earthquake/</a> Machine Learning Project for AI Class
  
 ## Data Distribution
 </br>
