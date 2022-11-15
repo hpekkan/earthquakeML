@@ -1,4 +1,5 @@
-﻿ # <p align="center"><a href="https://www.drivendata.org/competitions/57/nepal-earthquake/" target="_blank">!Competition Link!</a></p> </br>
+﻿ # <p align="center"><a href="https://www.drivendata.org/competitions/57/nepal-earthquake/" target="_blank">!Competition Link!</a></p>
+  
  ### <p align="center">Machine Learning Project for AI Class </p> </br>
 
 ## <p align="center">In earthquake.pdf you can see my approach to this problem and the algorithms I used. You can review the presentation (huseyin_pekkan_201401016_yap470_project.docx) that I prepared for this problem in the AI Course. The presentation is in Turkish.</p> 
