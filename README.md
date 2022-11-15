@@ -2,7 +2,7 @@
  
 ## Data Distribution
 </br>
-![image](https://user-images.githubusercontent.com/75019129/201914676-ca7f4fbc-c637-4f6a-8117-376aae7a8016.png)
+ ![image](https://user-images.githubusercontent.com/75019129/201914676-ca7f4fbc-c637-4f6a-8117-376aae7a8016.png)
 </br>
 ## Numerical Features
 </br>
